@@ -1,0 +1,29 @@
+{
+  "name": "socketioangular",
+  "version": "1.0.0",
+  "description": "MEAN Stack + socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tahlil/socketIOAngular.git"
+  },
+  "author": "Tahlil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tahlil/socketIOAngular/issues"
+  },
+  "homepage": "https://github.com/Tahlil/socketIOAngular#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
