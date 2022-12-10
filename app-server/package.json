@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Tahlil/socketIOAngular#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "mongodb": "^3.0.2",
     "socket.io": "^2.0.4"
   },
